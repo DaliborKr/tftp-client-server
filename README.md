@@ -3,6 +3,7 @@
 #### 2023, Brno
 
 Note: This project was part of the course _Network Applications and Network Administration_ at BUT FIT.
+
 ---
 
 ## **Task Description**
